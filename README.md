@@ -13,5 +13,5 @@ Then do these steps:
 src/gui.py
 
 # Run Play Morse
-PlayMorse --WPM 20 "AF6UY"
+src/PlayMorse --WPM 20 "AF6UY"
 
