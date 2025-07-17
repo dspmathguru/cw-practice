@@ -15,3 +15,11 @@ src/gui.py
 # Run Play Morse
 src/PlayMorse --WPM 20 "AF6UY"
 
+# Requires PlayAudio to be installed
+
+PlayAudio is a Python package to play audio files 
+that requires Ubuntu Package playaudio to be installed.
+
+```bash
+apt install portaudio19-dev
+```
